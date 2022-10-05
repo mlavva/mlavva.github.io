@@ -87,4 +87,19 @@
    background: #6C7B8B;
    color: white;
    }
+
+   .fa-twitter {
+   background: #1DA1F2;
+   color:  white;
+   }
+
+   .fa-facebook {
+   background: #4267B2;
+   color:  white;
+   }
+
+   .fa-instagram {
+   background: #405DE6;
+   color:  white;
+   }
 </style>
